@@ -1,0 +1,1 @@
+chrome-extension://dhdgffkkebhmkfjojejmpbldmpobfkfo/userscript.html?name=A%2520Universal%2520Script%2520to%2520Re-Enable%2520the%2520Selection%2520and%2520Copying.user.js&id=cf599427-d028-4770-8734-89c462e830a8
